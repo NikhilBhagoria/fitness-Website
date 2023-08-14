@@ -1,6 +1,6 @@
 # Fitness-Website
 # Home Page
-<img src="./KPPHYS/assests/img/screenshot 1.0.png" style="width:80px , heigth:80px">
+<img src="./KPPHYS/assests/img/screenshot 1.0.png" style="width:40px">
 
 # About Page
 <img src="./KPPHYS/assests/img/About SS.png">
