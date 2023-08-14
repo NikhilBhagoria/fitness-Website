@@ -1,2 +1,3 @@
-# fitness-Website
+# Fitness-Website
+#Home Page
 <img src="./KPPHYS/assests/img/screenshot 1.0.png">
